@@ -1,2 +1,14 @@
 # hupu-live-resource
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
